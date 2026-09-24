@@ -111,7 +111,8 @@ Raw Material → Storage → Cutting → Profile Machining → Drilling → Fini
 
 This arrangement provides a simple and continuous flow of material through the manufacturing process and reduces unnecessary movement inside the plant.
 
-![Uploading 657767177-f0457d89-9c46-45c9-bd0f-6be198973241.png…]()
+<img width="1600" height="743" alt="657767177-f0457d89-9c46-45c9-bd0f-6be198973241" src="https://github.com/user-attachments/assets/4d33d6f7-5a33-448b-8d40-e573ab9ff1e8" />
+
 
 Conclusion
 
